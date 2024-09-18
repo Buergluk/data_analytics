@@ -1,0 +1,6 @@
+Task 1:
+Problem definition= We need a way to predict prices of rental appartments in the canton of Zurich
+Objecive: Code a Tool to predict the prices of rental appartments in the canton of Zurich.
+Research Question: 
+Hypothesis: 
+Expected Value: Easyer way to predict the prices of rental appartments in the canton of Zurich.
